@@ -1,4 +1,4 @@
-# Ho    use Price Forecasting using LINEAR_REGRESSION
+# House Price Forecasting using LINEAR_REGRESSION
 Project Overview:
 The goal of this project is to build a predictive model that estimates house prices based on various features such as the number of bedrooms, bathrooms, square footage, and year built.
 
